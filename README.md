@@ -3,6 +3,10 @@ A dupe for the famous Chicken Invaders game using OpenGL 2D.
 
 This project is a simple 2D shooting game implemented using OpenGL and GLUT. The game involves a player-controlled character and an enemy character, both capable of shooting bullets.
 
+![image](https://github.com/telattar/Chicken-Invaders-Dupe/assets/110330655/6ccf2a2c-c758-4fa8-83e9-85f60d15d364)
+
+
+
 ## How to Play
 
 ### THE MAIN CHARACTERS
